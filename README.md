@@ -1,4 +1,4 @@
-# MERN Todo App
+# LINE UP - MERN Todo App
 
 This is a simple todo application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
